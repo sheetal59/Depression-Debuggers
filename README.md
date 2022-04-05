@@ -11,6 +11,14 @@ WHAT OUR WEBSITE DO?
 
 
 MODULES IMPLEMENTED:-
+1. HTML
+2. CSS
+3. JavaScript
+4. jQuery
+5. SCSS
+6. WebFonts
+7. PHP
+
 FOR WEB-PAGE:
 HTML- We have created four html pages and linked them to each other. The first page is home page which includes all the contents which is included in the website.
 Contents included in the the home page are:-
@@ -30,3 +38,19 @@ PHP and MySql databases: For storing the information by the user while signing u
 FOR Glad-Bot:
 NLP and Machine Learning are the main technologies behind chatbots. When a user asks a question to a chatbot, a series of complex algorithms process the input, figure out what the user is asking, and then determine the best answer for the question.
 Some chatbot templates are bland and uninteresting, but BotSociety's default templates are well-designed and diverse.
+
+SCREENSHOTS OF THE SITE:-![ss1](https://user-images.githubusercontent.com/88383407/161829846-93e48258-15c0-4ad9-b2d5-05f35965ec44.png)
+
+
+![ss2](https://user-images.githubusercontent.com/88383407/161829923-9a7b1bfa-0ea3-451a-8994-d3f50c41ea73.png)
+
+![ss3](https://user-images.githubusercontent.com/88383407/161830005-cc2f59e5-3c28-4aaf-a572-f52de7baabb8.png)
+
+
+
+
+![ss4](https://user-images.githubusercontent.com/88383407/161830175-685f984b-5d86-4f07-82bf-0c24425d609a.png)
+
+
+
+
