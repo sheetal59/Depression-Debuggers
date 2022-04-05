@@ -3,6 +3,7 @@ We are here to HELP, not to JUDGE!
 To eradicate mental health issues from the comfort of your own house, without the involvement of a stereotypical environment. The interface aims to provide numerous mindset lifting exercises, yoga, and meditation. The site gives direct admittance to contact specialists liberated from the cost of consultancy. Furthermore, there are communities to vent your thoughts and a personalized chatbot to assist you through your issues.
 
 WHAT OUR WEBSITE DO?
+
 1.Our website provides various resources to help patients reduce their anxiety and stress symptoms. We have provided a section of blogs releated to Mental Health.
 
 2.We sometimes feel lonely and there's no one to talk or to share what we are feeling. That's why we have created an Interactive Chat Bot i.e. Glad-Bot which will talk to you any time you want.
@@ -26,22 +27,22 @@ MODULES IMPLEMENTED:-
 7. PHP
 
 FOR WEB-PAGE:
-HTML- We have created four html pages and linked them to each other. The first page is home page which includes all the contents which is included in the website.
+->HTML- We have created four html pages and linked them to each other. The first page is home page which includes all the contents which is included in the website.
 Contents included in the the home page are:-
 1. About Depression Debuggers
 2. Resources which we are providing, it includes brain excercises, reading materials like blogs, tips and many more.
 
-CSS/SCSS- CSS and SCSS are Cascading StyleSheet and Syntactically Awesome Style Sheet respectively. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. Webpage is made more attractive and dynamic by using CSS and SCSS. SCSS are basically the advanced version of CSS which provides many more styling options. 
+->CSS/SCSS- CSS and SCSS are Cascading StyleSheet and Syntactically Awesome Style Sheet respectively. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. Webpage is made more attractive and dynamic by using CSS and SCSS. SCSS are basically the advanced version of CSS which provides many more styling options. 
 For creating the Interactive AI Bot we used the CSS/SCSS styling format for the display of Glad-Bot as a pop-up.
 We used various Bootstrap classes for implementing the Css.
 
-JavaScript and jQuery- Javascript is used to create dynamic and interactive web content like applications and browsers. We created many web alerts like page unresponsive, all fields should be filled , and interactions needed for the dynamic view of the webpage.
-jQuery is a framework built with JavaScript. It helps web developers to add extra functionalities to their websites. It is the most popular JavaScript library used to traverse and manipulate the HTML DOM tree. Also, it simplifies event handling, CSS animation, and Ajax.
+->JavaScript and jQuery- Javascript is used to create dynamic and interactive web content like applications and browsers. We created many web alerts like page unresponsive, all fields should be filled , and interactions needed for the dynamic view of the webpage.
+->jQuery is a framework built with JavaScript. It helps web developers to add extra functionalities to their websites. It is the most popular JavaScript library used to traverse and manipulate the HTML DOM tree. Also, it simplifies event handling, CSS animation, and Ajax.
 
-PHP and MySql databases: For storing the information by the user while signing up is stored in the databases files. We integrated the php file by embeding the php code with .htm extension in the HTML file. 
+->PHP and MySql databases: For storing the information by the user while signing up is stored in the databases files. We integrated the php file by embeding the php code with .htm extension in the HTML file. 
 
 
-FOR Glad-Bot:
+->FOR Glad-Bot:
 NLP and Machine Learning are the main technologies behind chatbots. When a user asks a question to a chatbot, a series of complex algorithms process the input, figure out what the user is asking, and then determine the best answer for the question.
 Some chatbot templates are bland and uninteresting, but BotSociety's default templates are well-designed and diverse.
 
