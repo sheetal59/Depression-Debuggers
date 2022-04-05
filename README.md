@@ -4,10 +4,16 @@ To eradicate mental health issues from the comfort of your own house, without th
 
 WHAT OUR WEBSITE DO?
 1.Our website provides various resources to help patients reduce their anxiety and stress symptoms. We have provided a section of blogs releated to Mental Health.
+
 2.We sometimes feel lonely and there's no one to talk or to share what we are feeling. That's why we have created an Interactive Chat Bot i.e. Glad-Bot which will talk to you any time you want.
-3. We have also created a section for the registeration of therapists and counsellors, also a section where any user can talk to aur consult our registered Counsellors at minimal cost.
+
+3. We have also created a section for the registeration of therapists and counsellors, where any user can talk to or consult our registered Counsellors at minimal cost. 
+
+
 4. If any user is dealing with suicidal aur homicidal thoughts then we have provided a direct link of icall where they can contact anyone for help.
-5. A Community forum is provided for mutual help and conversations to ease up the process of rectifying the mental state.
+
+
+6. A Community forum is provided for mutual help and conversations to ease up the process of rectifying the mental state.
 
 
 MODULES IMPLEMENTED:-
