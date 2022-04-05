@@ -2,7 +2,7 @@ INTRODUCTION:-
 
 We are here to HELP, not to JUDGE!
 
-To eradicate mental health issues from the comfort of your own house, without the involvement of a stereotypical environment. The interface aims to provide numerous mindset lifting exercises, yoga, and meditation. The site gives direct admittance to contact specialists liberated from the cost of consultancy. Furthermore, there are communities to vent your thoughts and a personalized chatbot to assist you through your issues.
+We have created a fully RESPONSIVE website which aims to eradicate mental health issues from the comfort of your own house, without the involvement of a stereotypical environment. The interface aims to provide numerous mindset lifting exercises, yoga, and meditation. The site gives direct admittance to contact specialists liberated from the cost of consultancy. Furthermore, there are communities to vent your thoughts and a personalized chatbot to assist you through your issues.
 
 WHAT OUR WEBSITE DO?
 
