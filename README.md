@@ -75,7 +75,7 @@ SCREENSHOTS OF THE SITE:-![ss1](https://user-images.githubusercontent.com/883834
 ![ss8](https://user-images.githubusercontent.com/88383407/161832831-f4313ad0-e0cf-4cfb-806d-80aee1a34ca0.png)
 
 STEP BY STEP GUIDE FOR ACCESSING THIS SITE:
-1. For visiting and exploring the contents of the site a direct link after deployment is provided here:- 
+1. For visiting and exploring the contents of the site a direct link after deployment is provided here:- https://sheetal59.github.io/Depression-Debuggers/home
 2. For cloning this website one can easily fork on this repository and can downlaod the files as zip.
 3. Unzip the zip file and save the related files in a separate folder.
 4. Open the folder in any code editor like vscode atom.
