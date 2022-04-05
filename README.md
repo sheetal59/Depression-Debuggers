@@ -52,5 +52,24 @@ SCREENSHOTS OF THE SITE:-![ss1](https://user-images.githubusercontent.com/883834
 ![ss4](https://user-images.githubusercontent.com/88383407/161830175-685f984b-5d86-4f07-82bf-0c24425d609a.png)
 
 
+![ss6](https://user-images.githubusercontent.com/88383407/161831882-8a2d734d-b276-44c9-8804-b635f86b610d.png)
 
 
+
+
+![gladbot](https://user-images.githubusercontent.com/88383407/161832528-cf2ce426-fe41-4642-a65e-b1dc015cd67d.png)
+
+
+
+
+![ss7](https://user-images.githubusercontent.com/88383407/161832826-ebebcb04-6bfd-4143-9baa-21ab5cd2b423.png)
+![ss8](https://user-images.githubusercontent.com/88383407/161832831-f4313ad0-e0cf-4cfb-806d-80aee1a34ca0.png)
+
+STEP BY STEP GUIDE FOR ACCESSING THIS SITE:
+1. For visiting and exploring the contents of the site a direct link after deployment is provided here:- 
+2. For cloning this website one can easily fork on this repository and can downlaod the files as zip.
+3. Unzip the zip file and save the related files in a separate folder.
+4. Open the folder in any code editor like vscode atom.
+5. Edit the html or css code as you want to clone it.
+
+YOUTUBE VIDEO LINK:-
